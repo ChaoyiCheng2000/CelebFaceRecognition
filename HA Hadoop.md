@@ -732,13 +732,9 @@ server.{{ hostvars[host]['myid'] }}={{ hostvars[host]['ansible_host'] }}:2888:38
 </code></pre>
 <ul>
 <li>在~/repo/hadoop配置<br>
-hadoop-3.2.3.tar.gz<br>
 hadoop-3.2.3<br>
-OpenJDK17U-jdk_x64_linux_hotspot_17.0.2_8.tar.gz<br>
 jdk-17.0.2+8<br>
-apache-zookeeper-3.6.4-bin.tar.gz<br>
 apache-zookeeper-3.6.4-bin<br>
-OpenJDK8U-jdk_x64_linux_hotspot_8u372b07.tar.gz<br>
 jdk8u372-b07</li>
 </ul>
 <p>在～/repo/hadoop底下安装以下的所有包，下载版本可以有略微不同</p>
