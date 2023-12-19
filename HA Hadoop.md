@@ -738,7 +738,7 @@ apache-zookeeper-3.6.4-bin<br>
 jdk8u372-b07</li>
 </ul>
 <p>在～/repo/hadoop底下安装以下的所有包，下载版本可以有略微不同</p>
-<pre><code>sudo wget https://dlcdn.apache.org/zookeeper/zookeeper-3.6.4/apache-zookeeper-3.6.4-bin.tar.gz
+<pre><code>sudo wget https://archive.apache.org/dist/zookeeper/zookeeper-3.6.4/apache-zookeeper-3.6.4-bin.tar.gz
 sudo tar -xzf apache-zookeeper-3.6.4-bin.tar.gz
 
 sudo wget https://archive.apache.org/dist/hadoop/common/hadoop-3.2.3/hadoop-3.2.3.tar.gz
