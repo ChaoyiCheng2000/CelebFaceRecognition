@@ -745,13 +745,13 @@ jdk8u372-b07</li>
 <pre><code>sudo wget https://dlcdn.apache.org/zookeeper/zookeeper-3.6.4/apache-zookeeper-3.6.4-bin.tar.gz
 sudo tar -xzf apache-zookeeper-3.6.4-bin.tar.gz
 
-sudo wget https://downloads.apache.org/hadoop/common/hadoop-3.2.3/hadoop-3.2.3.tar.gz
+sudo wget https://archive.apache.org/dist/hadoop/common/hadoop-3.2.3/hadoop-3.2.3.tar.gz
 sudo tar xzf hadoop-3.2.3.tar.gz
 
 sudo wget https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.2%2B8/OpenJDK17U-jdk_x64_linux_hotspot_17.0.2_8.tar.gz
 sudo tar xzf OpenJDK17U-jdk_x64_linux_hotspot_17.0.2_8.tar.gz
 
-sudo wget http://www.cs.tohoku-gakuin.ac.jp/pub/Tools/OpenJDK/JDK8-HotSpot/OpenJDK8U-jdk_x64_linux_hotspot_8u372b07.tar.gz
+sudo wget https://repo.schoolsoft.com.tw/repo/jdk/OpenJDK8U-jdk_x64_linux_hotspot_8u372b07.tar.gz
 sudo tar xzf OpenJDK8U-jdk_x64_linux_hotspot_8u372b07.tar.gz
 
 </code></pre>
